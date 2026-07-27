@@ -4,7 +4,7 @@ DataEngineering/
 └── DataSystems/
     ├── README.md
     │   # 데이터 시스템 설계 기초
-    ├── 01. Reliable, Scalable & Maintainable Systems.md
+    ├── 01. Reliable, Scalable & Maintainable Applications.md
     ├── 02. Data Models & Query Languages.md
     ├── 03. OLTP vs OLAP.md
     │   # 데이터 변환과 복제
