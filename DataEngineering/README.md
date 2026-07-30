@@ -34,3 +34,4 @@ DataEngineering/
 | 구분 | 챕터 |
 |---|---|
 | 데이터 시스템 설계 기초 | [01. Reliable, Scalable & Maintainable Applications](<./DataSystems/01. Reliable, Scalable & Maintainable Applications.md>) |
+| 데이터 시스템 설계 기초 | [02. Data Models & Query Languages](<./DataSystems/02. Data Models & Query Languages.md>) |
