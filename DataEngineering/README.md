@@ -35,4 +35,4 @@ DataEngineering/
 |---|---|
 | 데이터 시스템 설계 기초 | [01. Reliable, Scalable & Maintainable Applications](<./DataSystems/01. Reliable, Scalable & Maintainable Applications.md>) |
 | 데이터 시스템 설계 기초 | [02. Data Models & Query Languages](<./DataSystems/02. Data Models & Query Languages.md>) |
-| 데이터 시스템 설계 기초 | [02. Data Models & Query Languages](<./DataSystems/03. OLTP vs OLAP.md>) |
+| 데이터 시스템 설계 기초 | [03. OLTP vs OLAP](<./DataSystems/03. OLTP vs OLAP.md>) |
