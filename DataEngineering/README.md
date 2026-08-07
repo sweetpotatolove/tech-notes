@@ -39,3 +39,4 @@ DataEngineering/
 | 데이터 시스템 설계 기초 | [03. OLTP vs OLAP](<./DataSystems/03. OLTP vs OLAP.md>) |
 | 데이터 변환과 복제 | [04. Encoding & Serialization.md](<./DataSystems/04. Encoding & Serialization.md>) |
 | 데이터 변환과 복제 | [05. Data Replication.md](<./DataSystems/05. Data Replication.md>) |
+| 데이터 변환과 복제 | [06. Multi-Leader & Leaderless Replication.md](<./DataSystems/06. Multi-Leader & Leaderless Replication.md>) |
